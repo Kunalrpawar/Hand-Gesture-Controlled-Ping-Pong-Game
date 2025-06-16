@@ -33,10 +33,8 @@ A real-time hand-controlled Pong game built with Python, OpenCV, and MediaPipe. 
 ### Method 1: Quick Install (Recommended)
 
 1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/hand-pong-game.git
+ 
    cd hand-pong-game
-   \`\`\`
 
 2. **Run the installer**
    \`\`\`bash
@@ -51,10 +49,7 @@ A real-time hand-controlled Pong game built with Python, OpenCV, and MediaPipe. 
 ### Method 2: Manual Installation
 
 1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/hand-pong-game.git
-   cd hand-pong-game
-   \`\`\`
+   
 
 
 2. **Install dependencies**
